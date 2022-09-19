@@ -1,0 +1,1 @@
+Some string to write to a file object
